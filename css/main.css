@@ -70,7 +70,18 @@ footer {
         width: 79%;
         padding-left: 1%;
     }
-    
+    .text-align-center{
+        text-align:center;
+        background-color:aqua;
+     }
+      
+     .margin-auto > div{
+        margin:auto;
+        width:50%;
+        background-color:beige;
+        text-align:center;
+     }
+     
     picture.profile img {
         width: 50%;
         float: left;
