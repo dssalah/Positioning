@@ -1,10 +1,8 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
-
 html {
-    background-color: rgb(27, 192, 68);
-    font-family: 'Tangerine', sans-serif;
+    background-color: rgb(247, 250, 248);
+    font-family: 'Impact, fantasy', sans-serif;
     font-size: 2.5em;
     line-height: 1.5em;
 }
@@ -22,7 +20,7 @@ h1 {
 }
 /* Addsgoogle font to H1 for main pages
 h1.page-header{
-    font-family: 'Tangerine' , serif;
+    font-family: 'Impact, fantasy' , serif;
 }
 
 main.wrapper {
@@ -31,8 +29,12 @@ main.wrapper {
 }
 
 p {
-    margin: 1em; /* Top Right Bottom Left (TRBL) */
-}
+margin: 1em; }
+
+/* Top Right Bottom Left (TRBL) */
+
+    
+
 
 h2,h3 {
     font-weight: normal;
